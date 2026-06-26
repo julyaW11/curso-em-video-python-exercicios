@@ -1,6 +1,0 @@
-a=(input('Digite algo:'))
-print('É um numero?' , a.isnumeric())
-print('É uma alfabético?' , a.isalpha())
-print('É alfanumerico?' , a.isalnum())
-print('Tem apenas letras maiúsculas?' , a.isupper())
-print('Tem apenas letras minúsculas?' , a.islower())
